@@ -1,9 +1,8 @@
 # README #
 
-This repo is for the work done for LNET paper 
+This repo is for the work done for LNET paper. Other information about the paper is to be added soon.
 
-It consists of building many machine learning models for UNSW dataset and Our own healthcare testbed dataset. 
-The major contributions of the paper are in building a new evaluation metric for security application based on different applications requirements
+The paper proposes a new metric for evaluting security application based on different applications requirements. The reopositery consists of building many machine learning models for UNSW dataset and our own healthcare testbed dataset and evaluating them based on traditional ML metrics and newly proposed metric. 
 
 Paper file include the paper directory
 
@@ -12,3 +11,5 @@ Datasets file include the dataset to be used for machine learning
 Simulation is for virtualizations for different metrics (Fig. 1 in the paper)
 
 Core file is for ML codes 
+
+Details are to be added soon
